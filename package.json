@@ -1,0 +1,15 @@
+{
+  "name": "hello-nuxt",
+  "version": "1.0.0",
+  "description": "Nuxt sample app",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/ringohub/hello-nuxt.git",
+  "author": "aoki",
+  "license": "MIT",
+  "scripts": {
+    "start": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "0.9.9"
+  }
+}
